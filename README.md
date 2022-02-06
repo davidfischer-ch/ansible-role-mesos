@@ -1,9 +1,9 @@
-# Ansible Role mesos
+# Ansible Role MesOS
 
 Library of Ansible plugins and roles for deploying various services.
 See [ansible-roles](https://github.com/davidfischer-ch/ansible-roles) for additional documentation.
 
-This repository hosts the role mesos and may depend of other roles and plugins of the library.
+This repository hosts the role MesOS and may depend of other roles and plugins of the library.
 
 ## Status
 
